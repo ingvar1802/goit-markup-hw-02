@@ -274,6 +274,12 @@ button {
   text-align: center;
 }
 
+.filters:hover,
+.filters:focus {
+  color: var(--primary-white-color);
+  background: var(--accent-color);
+}
+
 .port-links {
   text-decoration: none;
 }
