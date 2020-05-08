@@ -267,6 +267,7 @@ button {
 
 .filters {
   color: var(--primary-text-color);
+  background: #f5f4fa;
 
   font-weight: 500;
   font-size: 16px;
